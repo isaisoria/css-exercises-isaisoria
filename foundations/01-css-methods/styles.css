@@ -1,0 +1,12 @@
+/*
+External css implementation
+*/
+
+div{
+    color: white;
+    background-color: red;
+    font: "times new roman";
+    font-weight: bold;
+    text-align: center;
+    font-size: x-large;
+}
